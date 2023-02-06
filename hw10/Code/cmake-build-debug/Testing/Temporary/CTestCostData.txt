@@ -1,0 +1,7 @@
+unittest_polynomial_1 75 0.000706601
+unittest_polynomial_2 75 0.000150489
+unittest_pol_func_1 49 0.000398276
+unittest_lambda_func_1 52 0.000414969
+unittest_polynomial_3 2 0
+unittest_polynomial_4 3 0.00371477
+---

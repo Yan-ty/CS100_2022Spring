@@ -1,0 +1,17 @@
+# ninja log v5
+3	704	6773323799973302	test/CMakeFiles/test_lambda_function.dir/test_lambda_function.cpp.obj	ec617b6c72f4f249
+2315	2822	6773399264744494	src/libcs100hw10Lib.a	9a7c58e27f9c41d7
+10	2315	6773399259667860	src/CMakeFiles/cs100hw10Lib.dir/polynomial.cpp.obj	7b404cda61171360
+2829	3519	6773399271390174	test/test_lambda_function.exe	5952bd27b5f5da16
+4	703	6773400641166343	test/CMakeFiles/test_polynomial_function.dir/test_polynomial_function.cpp.obj	f097db07101384ab
+4	1224	6773322098231989	src/CMakeFiles/cs100hw10Lib.dir/polynomial_parser.cpp.obj	62e150bac9d96104
+4	519	6772512423298926	test/CMakeFiles/test_polynomial.dir/test_polynomial.cpp.obj	b1f0f31f0a6f4b51
+2822	3377	6773399269967897	test/test_polynomial.exe	4fd7e19e98336695
+704	959	6773400643724715	test/test_polynomial_function.exe	f03e9d1676f8b307
+71	934	6773517581679926	test/CMakeFiles/test_polynomial_function.dir/test_polynomial_function.cpp.obj	f097db07101384ab
+43	976	6773517582112388	src/CMakeFiles/cs100hw10Lib.dir/polynomial.cpp.obj	7b404cda61171360
+60	1085	6773517583121722	src/CMakeFiles/cs100hw10Lib.dir/polynomial_parser.cpp.obj	62e150bac9d96104
+1085	1399	6773517586354075	src/libcs100hw10Lib.a	9a7c58e27f9c41d7
+1399	1644	6773517588651800	test/test_polynomial.exe	4fd7e19e98336695
+1403	1704	6773517589286837	test/test_polynomial_function.exe	f03e9d1676f8b307
+1408	1716	6773517589438756	test/test_lambda_function.exe	5952bd27b5f5da16
